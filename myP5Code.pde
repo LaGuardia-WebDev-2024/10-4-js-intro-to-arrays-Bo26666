@@ -8,6 +8,18 @@ setup = function() {
     text("🍽", i, 370)
   }
 
+//Arrays
+
+var favFruits = "Plum";
+
+var favFruits = ["Plum", "Grapes", "Apple"] ;
+
+//[1]favFruits
+
+text(favFruits[0],10,35);
+text(favFruits[1],10,100);
+text(favFruits[2],10,165);
+
 
 };
 
